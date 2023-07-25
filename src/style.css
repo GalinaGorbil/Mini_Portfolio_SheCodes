@@ -84,4 +84,17 @@
   .email-link:hover {
     text-decoration: underline;
   }
+
+ @media (max-width: 576px) {
+.card-title, .card-text, .btn {         
+  text-align: center;
+  
+
+ }
+ .card-img-top {
+  display: none;
+ }
+              
+ }
+        
   
