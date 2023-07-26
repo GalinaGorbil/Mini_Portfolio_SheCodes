@@ -79,6 +79,7 @@
     color: var(--primary-color);
     font-size: 28px;
     text-decoration: none;
+    margin-bottom: 40px;
   }
   
   .email-link:hover {
@@ -94,7 +95,10 @@
  .card-img-top {
   display: none;
  }
-              
+ #yoga, #weather, #yogurt{
+  display: none;
+ }
+ 
  }
         
   
